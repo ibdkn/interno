@@ -2,7 +2,7 @@
 
 An adaptive single-page landing site, written using a modern technology stack.
 
-Link: [https://ibdkn.github.io/boom-burger/](https://ibdkn.github.io/interno/)
+Link: https://ibdkn.github.io/interno/
 
 ## Technologies
 
